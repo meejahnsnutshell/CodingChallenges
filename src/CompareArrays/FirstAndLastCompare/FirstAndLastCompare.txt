@@ -1,0 +1,9 @@
+
+Challenge:
+
+Given this method signature:
+
+public boolean compareArrays(int[] a, int[] b){...}
+
+complete the method so that it will return true if both a[] and b[] share the same first element
+and last element in common

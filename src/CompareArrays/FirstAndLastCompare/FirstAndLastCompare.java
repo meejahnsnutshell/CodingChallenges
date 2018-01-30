@@ -2,7 +2,7 @@ package CompareArrays.FirstAndLastCompare;
 
 public class FirstAndLastCompare {
 
-    // given this method signature:
+    // given this method signature in challenge instructions:
     public static boolean firstAndLastCompare(int[] a, int[] b){
 
         boolean firstSame;

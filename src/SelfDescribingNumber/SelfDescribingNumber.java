@@ -27,8 +27,6 @@ public class SelfDescribingNumber {
                         // return isSelfDescribing as false and exit method
                         isSelfDescribing = false;
                         return isSelfDescribing;
-                        //otherwise continue to next iteration of inner for loop
-                        // unnecessary but provides
                     }
                 }
             }

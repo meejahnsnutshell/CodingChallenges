@@ -1,7 +1,7 @@
 package LC;
 
 /**
- * LaunchCode challenge to write a program that returns the first available spot in a parking lot. 1's are occupied,
+ * Challenge to write a program that returns the first available spot in a parking lot. 1's are occupied,
  * 0's are empty parking spaces. Instructions stated that the next available spot should be furthest to the left that
  * is also closest to the top. For example
  * 1 1 1 1 0

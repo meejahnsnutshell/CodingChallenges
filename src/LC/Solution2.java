@@ -9,6 +9,12 @@ package LC;
  * should return 1, 0
  */
 public class Solution2 {
+    /**
+     * Method signature provided in instructions
+     * @param n, parking lot grid is nxn
+     * @param available, nxn array of available spaces
+     * @return array containing row and column of next spot to be filled
+     */
     static int[] carParking(int n, int[][] available) {
 
         int[] result = {-1, -1};
